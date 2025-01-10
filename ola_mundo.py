@@ -7,4 +7,4 @@ def soma(a, b):
 
 # Chamando a função
 resultado = soma(3, 5)
-print("A soma é:", resultado)
+print("A soma é:", resultado, " parabéns por usar este código!")
